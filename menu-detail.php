@@ -41,9 +41,6 @@ $menu = mysqli_fetch_array($queryMenu);
                     <li class="nav-item px-2 py-2">
                         <a class="nav-link text-uppercase text-dark" href="menu.php">Menu</a>
                     </li>
-                    <li class="nav-item px-2 py-2">
-                        <a class="nav-link text-uppercase text-dark" href="./adminpanel/logout.php">Logout</a>
-                    </li>
                 </ul>
             </div>
         </div>

@@ -21,10 +21,6 @@ $jumlahMenu = mysqli_num_rows($queryMenu);
 </head>
 
 <style>
-    body {
-        background-color: aqua;
-    }
-
     .text-white {
         color: white !important;
     }

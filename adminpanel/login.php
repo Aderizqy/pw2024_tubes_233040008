@@ -14,6 +14,10 @@ require "../koneksi.php";
 </head>
 
 <style>
+    body {
+        
+    }
+
     .main {
         height: 100vh;
     }
