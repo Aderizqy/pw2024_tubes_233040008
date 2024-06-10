@@ -15,7 +15,9 @@ require "../koneksi.php";
 
 <style>
     body {
-        
+        background: url('../img/div2.jpg');
+        background-size: cover;
+        background-position: center;
     }
 
     .main {
@@ -28,6 +30,7 @@ require "../koneksi.php";
         height: auto;
         box-sizing: border-box;
         border-radius: 10px;
+        background-color: rgba(255,255,255,0.5);
     }
 
     .card-header {
