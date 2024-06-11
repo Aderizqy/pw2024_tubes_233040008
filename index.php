@@ -38,6 +38,9 @@ $queryMenu = mysqli_query($conn, "SELECT kategori_id, nama, harga, foto, detail 
                     <li class="nav-item px-2 py-2">
                         <a class="nav-link text-uppercase text-dark" href="menu.php">Menu</a>
                     </li>
+                    <li class="nav-item px-2 py-2">
+                        <a class="nav-link text-uppercase text-dark" href="../adminpanel/logout.php">Admin</a>
+                    </li>
                 </ul>
             </div>
         </div>
